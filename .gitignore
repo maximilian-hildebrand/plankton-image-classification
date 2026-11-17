@@ -1,0 +1,23 @@
+# Local data and generated artifacts
+data/
+models/
+outputs/
+
+# Python and notebook caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Local environments and editor files
+.venv/
+venv/
+env/
+.env
+.DS_Store
+.idea/
+.vscode/
+
+# macOS and OS-generated files
+*.swp
+*.swo
